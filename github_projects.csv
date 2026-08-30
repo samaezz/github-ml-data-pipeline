@@ -1,0 +1,101 @@
+name,owner,language,stars,forks,watchers,open_issues,created_at,updated_at,license
+tensorflow,tensorflow,C++,198068,76201,198068,2986,2015-11-07 01:19:20+00:00,2026-08-30 19:34:08+00:00,Apache License 2.0
+transformers,huggingface,Python,164638,34396,164638,2404,2018-10-29 13:56:00+00:00,2026-08-30 19:27:39+00:00,Apache License 2.0
+ML-For-Beginners,microsoft,Jupyter Notebook,89936,22126,89936,13,2021-03-03 01:34:05+00:00,2026-08-30 19:01:51+00:00,MIT License
+funNLP,fighting41love,Python,82774,15276,82774,52,2018-08-21 11:20:39+00:00,2026-08-30 18:46:34+00:00,No license
+awesome-machine-learning,josephmisiti,Python,74218,15636,74218,30,2014-07-15 19:11:19+00:00,2026-08-30 17:50:59+00:00,Other
+scikit-learn,scikit-learn,Python,67103,27336,67103,2136,2010-08-17 09:43:38+00:00,2026-08-30 17:43:27+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+gradio,gradio-app,Python,43438,3580,43438,161,2018-12-19 08:24:04+00:00,2026-08-30 16:37:47+00:00,Apache License 2.0
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,ashishpatel26,Not specified,36647,7478,36647,68,2021-01-02 12:08:37+00:00,2026-08-30 19:41:07+00:00,No license
+C-Plus-Plus,TheAlgorithms,C++,34623,7854,34623,25,2016-07-16 10:19:45+00:00,2026-08-30 18:12:45+00:00,MIT License
+netron,lutzroeder,JavaScript,33427,3176,33427,18,2010-12-26 12:53:43+00:00,2026-08-30 16:24:29+00:00,MIT License
+ML-From-Scratch,eriklindernoren,Python,32552,5433,32552,77,2017-02-05 12:11:23+00:00,2026-08-30 16:39:35+00:00,MIT License
+applied-ml,eugeneyan,Not specified,30098,3993,30098,8,2020-07-04 18:57:47+00:00,2026-08-30 15:29:52+00:00,MIT License
+machine-learning-for-software-engineers,ZuzooVn,Not specified,28863,6146,28863,32,2016-10-09 21:20:25+00:00,2026-08-30 14:32:37+00:00,Creative Commons Attribution Share Alike 4.0 International
+linkedin-skill-assessments-quizzes,Ebazhanov,Python,28810,12901,28810,20,2019-07-13 19:52:56+00:00,2026-08-30 08:32:53+00:00,GNU Affero General Public License v3.0
+cs249r_book,harvard-edge,Python,28066,3549,28066,27,2023-09-06 19:31:06+00:00,2026-08-30 19:13:20+00:00,Other
+shap,shap,Jupyter Notebook,25711,3747,25711,1001,2016-11-22 19:17:08+00:00,2026-08-30 17:31:31+00:00,MIT License
+homemade-machine-learning,trekhleb,Jupyter Notebook,24784,4192,24784,30,2018-11-01 04:34:19+00:00,2026-08-30 15:59:37+00:00,MIT License
+Paddle,PaddlePaddle,C++,24063,6022,24063,1505,2016-08-15 06:59:08+00:00,2026-08-30 16:02:56+00:00,Apache License 2.0
+best-of-ml-python,lukasmasuch,Not specified,23739,3149,23739,55,2020-11-29 19:41:36+00:00,2026-08-30 19:25:03+00:00,Creative Commons Attribution Share Alike 4.0 International
+C,TheAlgorithms,C,22359,4769,22359,19,2016-07-16 10:17:03+00:00,2026-08-30 17:23:20+00:00,GNU General Public License v3.0
+video2x,k4yt3x,C++,21428,1857,21428,132,2018-02-24 16:34:41+00:00,2026-08-30 16:56:03+00:00,GNU Affero General Public License v3.0
+onnx,onnx,Python,21385,4015,21385,279,2017-09-07 04:53:45+00:00,2026-08-30 18:28:15+00:00,Apache License 2.0
+rasa,RasaHQ,Python,21310,4918,21310,153,2016-10-14 12:27:49+00:00,2026-08-30 16:27:01+00:00,Apache License 2.0
+awesome-production-machine-learning,EthicalML,Not specified,20878,2593,20878,32,2018-08-15 14:28:41+00:00,2026-08-30 09:51:58+00:00,MIT License
+machine-learning-for-trading,stefan-jansen,Jupyter Notebook,20737,5574,20737,7,2018-05-09 12:33:08+00:00,2026-08-30 18:23:55+00:00,MIT License
+stanford-cs-229-machine-learning,afshinea,Not specified,20174,4258,20174,20,2018-08-04 23:01:00+00:00,2026-08-30 18:31:01+00:00,MIT License
+ml-agents,Unity-Technologies,C#,19653,4484,19653,21,2017-09-08 21:09:04+00:00,2026-08-29 03:21:03+00:00,Other
+ml-engineering,stas00,Python,18840,1230,18840,4,2020-09-02 19:23:01+00:00,2026-08-30 17:43:41+00:00,Creative Commons Attribution Share Alike 4.0 International
+LightGBM,lightgbm-org,C++,18729,4062,18729,517,2016-08-05 05:45:50+00:00,2026-08-30 17:15:47+00:00,MIT License
+Machine-Learning-Tutorials,ujjwalkarn,Not specified,18150,3970,18150,47,2015-09-12 14:51:38+00:00,2026-08-30 09:51:19+00:00,Creative Commons Zero v1.0 Universal
+ML-NLP,NLP-LOVE,Jupyter Notebook,17800,4626,17800,36,2019-07-05 12:49:53+00:00,2026-08-30 10:52:42+00:00,No license
+brpc,apache,C++,17595,4139,17595,466,2017-09-04 09:28:47+00:00,2026-08-30 15:03:50+00:00,Apache License 2.0
+ML-YouTube-Courses,dair-ai,Not specified,17385,2126,17385,21,2021-06-25 09:39:16+00:00,2026-08-30 18:11:09+00:00,Creative Commons Zero v1.0 Universal
+numpy-ml,ddbourgin,Python,16330,3740,16330,47,2019-04-06 22:29:49+00:00,2026-08-30 15:59:27+00:00,GNU General Public License v3.0
+transformers.js,huggingface,JavaScript,16278,1185,16278,273,2023-02-13 13:51:45+00:00,2026-08-30 00:34:39+00:00,Apache License 2.0
+mml-book.github.io,mml-book,Jupyter Notebook,15940,2857,15940,197,2017-12-08 10:52:21+00:00,2026-08-30 18:53:25+00:00,No license
+kubeflow,kubeflow,Not specified,15841,2693,15841,0,2017-11-30 18:44:19+00:00,2026-08-29 17:26:10+00:00,Apache License 2.0
+cheatsheets-ai,kailashahirwar,Not specified,15430,3371,15430,12,2017-05-24 12:06:56+00:00,2026-08-30 02:51:39+00:00,MIT License
+ggml,ggml-org,C++,15263,1799,15263,352,2022-09-18 17:07:19+00:00,2026-08-30 17:06:37+00:00,MIT License
+Qix,ty4z2008,Not specified,15196,4573,15196,0,2014-04-20 11:03:15+00:00,2026-08-29 17:28:14+00:00,Other
+imgaug,aleju,Python,14744,2450,14744,311,2015-07-10 20:31:33+00:00,2026-08-27 11:44:58+00:00,MIT License
+bullet3,bulletphysics,C++,14705,3092,14705,424,2011-04-12 18:45:08+00:00,2026-08-30 15:38:01+00:00,Other
+ChatterBot,gunthercox,Python,14508,4421,14508,72,2014-09-28 14:49:00+00:00,2026-08-29 04:26:18+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+dlib,davisking,C++,14435,3442,14435,38,2014-01-29 00:45:33+00:00,2026-08-29 18:04:31+00:00,Boost Software License 1.0
+nni,microsoft,Python,14361,1850,14361,415,2018-06-01 05:51:44+00:00,2026-08-29 02:53:44+00:00,MIT License
+mit-deep-learning-book-pdf,janishar,Java,14219,2907,14219,12,2017-04-07 10:46:50+00:00,2026-08-30 10:40:44+00:00,No license
+ivy,unifyai,Python,14170,5456,14170,985,2021-01-19 08:37:25+00:00,2026-08-29 10:58:49+00:00,Other
+machine-learning-zoomcamp,DataTalksClub,Jupyter Notebook,14053,3117,14053,3,2020-04-17 04:29:23+00:00,2026-08-30 17:21:19+00:00,No license
+handson-ml3,ageron,Jupyter Notebook,14028,5274,14028,107,2022-02-19 09:43:22+00:00,2026-08-30 14:40:02+00:00,Apache License 2.0
+tvm,apache,Python,13706,3963,13706,238,2016-10-12 22:20:28+00:00,2026-08-30 17:06:07+00:00,Apache License 2.0
+Ai-Learn,tangyudi,Not specified,13289,2676,13289,20,2020-01-28 01:55:06+00:00,2026-08-30 09:49:48+00:00,No license
+deep-learning-drizzle,kmario23,HTML,12938,2987,12938,5,2018-11-26 01:17:36+00:00,2026-08-30 13:20:01+00:00,No license
+machine-learning-interview,khangich,Not specified,12801,2046,12801,9,2020-08-11 06:26:32+00:00,2026-08-30 16:01:13+00:00,No license
+python-machine-learning-book,rasbt,Jupyter Notebook,12642,4371,12642,13,2015-08-07 20:39:29+00:00,2026-08-30 09:51:18+00:00,MIT License
+predictionio,apache,Scala,12517,1895,12517,80,2013-01-25 19:42:32+00:00,2026-08-27 21:33:13+00:00,Apache License 2.0
+lime,marcotcr,JavaScript,12163,1847,12163,133,2016-03-15 22:18:10+00:00,2026-08-29 22:16:45+00:00,"BSD 2-Clause ""Simplified"" License"
+cleanlab,cleanlab,Python,11639,921,11639,122,2018-05-11 01:55:21+00:00,2026-08-30 09:51:53+00:00,Apache License 2.0
+dive-into-machine-learning,dive-into-machine-learning,Not specified,11390,1865,11390,0,2015-02-22 23:48:16+00:00,2026-08-20 20:37:28+00:00,Creative Commons Attribution 4.0 International
+MLAlgorithms,rushter,Python,11173,1767,11173,10,2016-10-05 06:46:45+00:00,2026-08-29 12:03:56+00:00,MIT License
+turicreate,apple,C++,11157,1118,11157,522,2017-12-01 00:42:04+00:00,2026-08-30 14:54:27+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+amazon-sagemaker-examples,aws,Jupyter Notebook,10981,6962,10981,849,2017-10-23 05:55:22+00:00,2026-08-27 16:15:04+00:00,Apache License 2.0
+A-Curated-List-of-ML-System-Design-Case-Studies,Engineer1999,Not specified,10962,1683,10962,7,2024-05-18 15:42:58+00:00,2026-08-29 23:30:35+00:00,No license
+dolly,databrickslabs,Python,10805,1139,10805,5,2023-03-24 16:15:53+00:00,2026-08-30 10:29:35+00:00,Apache License 2.0
+doccano,doccano,Python,10760,1827,10760,398,2018-05-09 06:10:05+00:00,2026-08-28 05:25:51+00:00,MIT License
+mlcourse.ai,Yorko,Python,10694,5695,10694,3,2017-02-27 08:32:20+00:00,2026-08-30 09:51:35+00:00,Other
+machine-learning-systems-design,chiphuyen,HTML,10566,1634,10566,11,2019-11-24 23:16:28+00:00,2026-08-30 16:56:23+00:00,No license
+Machine-Learning,Jack-Cherish,Python,10378,5064,10378,7,2017-03-25 07:32:37+00:00,2026-08-30 09:59:42+00:00,No license
+machine-learning-notes,roboticcam,Jupyter Notebook,10346,1826,10346,28,2018-02-15 15:42:33+00:00,2026-08-29 11:32:42+00:00,No license
+3D-Machine-Learning,timzhang642,Not specified,10195,1798,10195,21,2017-08-12 15:20:54+00:00,2026-08-29 19:08:42+00:00,No license
+tpot,EpistasisLab,Jupyter Notebook,10051,1562,10051,312,2015-11-03 21:08:40+00:00,2026-08-28 12:06:09+00:00,GNU Lesser General Public License v3.0
+sktime,sktime,Python,9977,2314,9977,2393,2018-11-06 15:08:24+00:00,2026-08-30 18:38:44+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+AIMLInterviews,alirezadir,Jupyter Notebook,9492,1670,9492,11,2021-01-31 03:52:09+00:00,2026-08-30 18:09:17+00:00,MIT License
+Stock-Prediction-Models,huseinzol05,Jupyter Notebook,9481,3047,9481,47,2017-12-18 10:49:59+00:00,2026-08-30 16:31:09+00:00,Apache License 2.0
+cog,replicate,Go,9465,697,9465,71,2021-02-26 23:43:09+00:00,2026-08-30 10:47:08+00:00,Apache License 2.0
+golearn,sjwhitworth,Go,9439,1164,9439,89,2013-12-26 13:06:14+00:00,2026-08-29 17:32:46+00:00,MIT License
+machinelearning,dotnet,C#,9352,1950,9352,1000,2018-05-03 16:20:42+00:00,2026-08-29 17:33:23+00:00,MIT License
+awesome-ml-for-cybersecurity,jivoi,Not specified,9337,1937,9337,30,2016-12-20 12:46:36+00:00,2026-08-30 17:39:36+00:00,Other
+awesome-project-ideas,NirantK,Not specified,9295,1291,9295,7,2017-08-19 09:37:58+00:00,2026-08-30 18:24:45+00:00,MIT License
+catboost,catboost,C++,9086,1329,9086,712,2017-07-18 05:29:04+00:00,2026-08-30 07:26:29+00:00,Apache License 2.0
+machine_learning_examples,lazyprogrammer,Python,8916,6401,8916,33,2014-07-31 23:40:45+00:00,2026-08-29 17:37:41+00:00,No license
+state-of-the-art-result-for-machine-learning-problems,RedditSota,Not specified,8892,1293,8892,14,2017-11-09 01:21:40+00:00,2026-08-29 17:37:55+00:00,Apache License 2.0
+pattern,clips,Python,8859,1555,8859,179,2011-05-03 15:29:01+00:00,2026-08-29 17:38:07+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+financial-machine-learning,firmai,Python,8771,1409,8771,15,2019-03-21 21:00:35+00:00,2026-08-30 09:50:13+00:00,No license
+vowpal_wabbit,VowpalWabbit,C++,8706,1926,8706,2,2009-07-31 19:36:58+00:00,2026-08-26 18:40:07+00:00,Other
+machinelearning,ljpzzz,Jupyter Notebook,8705,3684,8705,17,2016-05-12 07:06:34+00:00,2026-08-30 15:39:46+00:00,MIT License
+MachineLearning_Python,lawlite19,Python,8586,2515,8586,10,2016-10-17 15:44:59+00:00,2026-08-30 16:20:57+00:00,MIT License
+Machine-Learning-Collection,aladdinpersson,Python,8488,2786,8488,118,2020-03-26 07:02:40+00:00,2026-08-29 10:19:04+00:00,MIT License
+approachingalmost,abhishekkrthakur,Not specified,8375,1122,8375,54,2020-07-04 07:13:20+00:00,2026-08-30 06:19:50+00:00,No license
+introduction_to_ml_with_python,amueller,Jupyter Notebook,8164,4671,8164,28,2016-05-29 18:29:47+00:00,2026-08-28 12:37:07+00:00,No license
+auto-sklearn,automl,Python,8127,1323,8127,207,2015-07-02 15:38:10+00:00,2026-08-29 08:55:06+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
+machine-learning-cheat-sheet,soulmachine,TeX,8049,1331,8049,11,2013-05-09 07:43:59+00:00,2026-08-30 14:26:56+00:00,No license
+cortex,cortexlabs,Go,8013,594,8013,132,2019-01-24 04:43:14+00:00,2026-08-28 09:02:13+00:00,Apache License 2.0
+machine-learning-roadmap,mrdbourke,Not specified,7892,1168,7892,12,2020-07-09 07:07:47+00:00,2026-08-30 13:55:56+00:00,MIT License
+machine-learning-yearning-cn,deeplearning-ai,CSS,7844,1499,7844,4,2018-06-19 19:26:39+00:00,2026-08-27 09:07:05+00:00,Other
+Machine-Learning-Specialization-Coursera,greyhatguy007,Jupyter Notebook,7835,3732,7835,26,2022-06-16 15:31:02+00:00,2026-08-30 10:14:33+00:00,MIT License
+Machine-learning-learning-notes,Vay-keen,Not specified,7764,1880,7764,28,2018-03-24 06:48:10+00:00,2026-08-30 15:25:51+00:00,No license
+awesome-youtubers,JoseDeFreitas,Markdown,7758,501,7758,2,2020-08-25 14:18:15+00:00,2026-08-30 10:35:35+00:00,Creative Commons Zero v1.0 Universal
+Learn_Machine_Learning_in_3_Months,llSourcell,Not specified,7598,2311,7598,19,2018-03-02 10:59:53+00:00,2026-08-27 16:52:37+00:00,No license
+h2o-3,h2oai,Jupyter Notebook,7497,2024,7497,2883,2014-03-03 16:08:07+00:00,2026-08-30 03:14:57+00:00,Apache License 2.0
+industry-machine-learning,firmai,Jupyter Notebook,7486,1249,7486,3,2019-05-03 05:08:15+00:00,2026-08-26 14:27:33+00:00,No license
